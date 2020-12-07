@@ -18,7 +18,7 @@ nav {
 .container {
     width: 80%;
     margin: 0 auto;
-    position: absolute;
+    position: relative;
 }
 
 .logo a {
@@ -63,7 +63,7 @@ nav {
     height: 700px;
     background: #fff;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 80px;
     position: relative;
     border-radius: 15px;
     box-shadow: -15px 17px 23px -10px rgba(0, 0, 0, 0.3);
