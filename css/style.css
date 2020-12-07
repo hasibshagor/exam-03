@@ -18,6 +18,7 @@ nav {
 .container {
     width: 80%;
     margin: 0 auto;
+    position: absolute;
 }
 
 .logo a {
